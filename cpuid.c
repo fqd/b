@@ -106,4 +106,7 @@ int main()
 	printf("HYPERVISOR:\t%s\n",     ((ecx >> 31) & 1) ? "YES" : "NO");
 
 	return 0;
+	
 }
+
+
